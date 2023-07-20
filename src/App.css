@@ -1,0 +1,22 @@
+.gridArea {
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+}
+
+.bg-got {
+    background-image: url("./images/1260061.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.bg-charactersId {
+    background-image: url("./images/25520.jpg");
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
